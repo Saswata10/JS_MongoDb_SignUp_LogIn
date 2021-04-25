@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    background-image: url("./../image/rodion-kutsaev-8P-uQaTd8rw-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+h1{
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+
+}
+label{
+    font-weight: bold;
+}
+/* .form-control{
+    border: 1px solid black;
+} */
+.form-group{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.form-text{
+    color: blue;
+    font-weight: lighter;
+}
+/* .col-6{
+    border: 2px solid black;
+    
+} */
+#button{
+    text-align: center;
+}
+#nameSpan{
+    position: absolute;
+    top: 22%;
+    left: 71%
+}
+#emailSpan{
+    position: absolute;
+    top:37%;
+    left: 71%
+}
+#phoneSpan{
+    position: absolute;
+    top: 48%;
+    left: 71%
+}
+#passwordSpan{
+    position: absolute;
+    top: 59%;
+    left: 71%
+}
+#conpasswordSpan{
+    position: absolute;
+    top: 76%;
+    left: 71%;
+}
+
+#nameSpan,#emailSpan,#phoneSpan,#passwordSpan,#conpasswordSpan{
+    color: red;
+}
+
+.error{
+    border: 2px solid red;
+}
+
+.successfull{
+    border: 2px solid green;
+}
