@@ -52,5 +52,9 @@ _When user will click Submit button , each field validation will be checked if a
 #### Login Page :
 User will be redirected to Log In page after clicking on Log In option from navigation bar. 
 
+![Screenshot (12)](https://user-images.githubusercontent.com/72350924/116940253-50be1c00-ac8b-11eb-8a40-8a4c153a9214.png)
+
 ##### _Following code for find user given email id in database and match user given password with database stored hashed password
+
+![Screenshot (27)](https://user-images.githubusercontent.com/72350924/116940275-5582d000-ac8b-11eb-9e82-3ec180c48906.png)
 
