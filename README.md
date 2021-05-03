@@ -24,3 +24,5 @@ This is the landing page of the project. At the navigation bar, have two options
 ![Screenshot (16)](https://user-images.githubusercontent.com/72350924/116927395-409d4100-ac79-11eb-8b6b-7f427cdcd604.png)
 ![Screenshot (18)](https://user-images.githubusercontent.com/72350924/116927419-46932200-ac79-11eb-8254-db86d6238fde.png)
 
+#### Signup Page: 
+User will be redirected to Sign Up page after clicking on Sign Up option from home page. Here I have created a form for taking some information from a user. Also I have done validation with Javascript for each field.
