@@ -37,14 +37,20 @@ _When user will click Submit button , each field validation will be checked if a
 
 **I have used the following codes to establish MongoDb connection with our project**
 
-##### Code for MongoDb Connection : 
+##### _Code for MongoDb Connection : 
 
 ![Screenshot (23)](https://user-images.githubusercontent.com/72350924/116934912-32ecb900-ac83-11eb-8c12-620705d7736c.png)
 
-##### Code for creating Mongoose schema and model :
+##### _Code for creating Mongoose schema and model :
 
 ![Screenshot (22)](https://user-images.githubusercontent.com/72350924/116934960-4566f280-ac83-11eb-81e7-277a685d4d76.png)
 
-##### Code for inserting data into database :
+##### _Code for inserting data into database and Password hashing :
 
 ![Screenshot (24)](https://user-images.githubusercontent.com/72350924/116934970-4bf56a00-ac83-11eb-94cd-f60b46ebc016.png)
+
+#### Login Page :
+User will be redirected to Log In page after clicking on Log In option from navigation bar. 
+
+##### _Following code for find user given email id in database and match user given password with database stored hashed password
+
