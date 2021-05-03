@@ -31,16 +31,20 @@ User will be redirected to Sign Up page after clicking on Sign Up option from ho
 
 _When user will click Submit button , each field validation will be checked if all validation is successful , form will be submitted and all user information will be stored at database , if validation fail form will not be submitted and will give error message what kind of validation is failing._
 
+![Screenshot (25)](https://user-images.githubusercontent.com/72350924/116938001-ba3c2b80-ac87-11eb-98f1-c6bdc3110625.png)
+
+![Screenshot (26)](https://user-images.githubusercontent.com/72350924/116938024-c0320c80-ac87-11eb-8899-e3fd601cdc6b.png)
+
 **I have used the following codes to establish MongoDb connection with our project**
 
-###### Code for MongoDb Connection : 
+##### Code for MongoDb Connection : 
 
 ![Screenshot (23)](https://user-images.githubusercontent.com/72350924/116934912-32ecb900-ac83-11eb-8c12-620705d7736c.png)
 
-###### Code for creating Mongoose schema and model :
+##### Code for creating Mongoose schema and model :
 
 ![Screenshot (22)](https://user-images.githubusercontent.com/72350924/116934960-4566f280-ac83-11eb-81e7-277a685d4d76.png)
 
-###### Code for inserting data into database :
+##### Code for inserting data into database :
 
 ![Screenshot (24)](https://user-images.githubusercontent.com/72350924/116934970-4bf56a00-ac83-11eb-94cd-f60b46ebc016.png)
