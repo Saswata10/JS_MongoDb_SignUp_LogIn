@@ -14,3 +14,8 @@ The following technologies are covered during these development:
 6. **Express.js**
 7. **MongoDb**
 
+#### Home Page : This is the landing page of the project. At the navigation bar, have two options Log In and Sign Up, to navigate towards Log In page and Sign Up page respectively.
+![Screenshot (13)](https://user-images.githubusercontent.com/72350924/116924526-9bcd3480-ac75-11eb-9ff8-aba94c2d4b01.png)
+
+I have used the following code to host the website and to make the home page as landing page:
+
