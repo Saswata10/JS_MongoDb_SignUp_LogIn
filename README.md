@@ -1,21 +1,21 @@
 ## JS_MongoDb_SignUp_LogIn
 
 #### Project Summary:
-Using Node.js and MongoDb I have developed this project with limited functionality. This project consists of three static pages:__1. Home Page  2. Login Page  3. Signup page__.
-In this project, I have mainly focused on **Database connection**. With the help of Signup page I have taken user information and stored all the data into my database in MongoDb.
-On Login Page I have verified user Email Id and Password with database and made log in accordingly.
+Using Node.js and MongoDB I have developed this project with limited functionality. This project consists of three static pages: __1. Home Page  2. Login Page  3. Signup page__.
+In this project, I have mainly focused on **Database connection**. With the help of Signup page I have taken user information and stored all the data into my database in MongoDB.
+On Login Page, I have verified user Email Id and Password with database and made log in accordingly.
 
 The following technologies are covered during these development:
 1. **HTML**
 2. **CSS**
 3. **Bootstrap**
-4. **Javascript**
+4. **JavaScript**
 5. **Node.js**
 6. **Express.js**
-7. **MongoDb**
+7. **MongoDB**
 
 #### Home Page :
-This is the landing page of the project. At the navigation bar, have two options Log In and Sign Up, to navigate towards Log In page and Sign Up page respectively.
+This is the landing page of the project. At the navigation bar, we have two options Log In and Sign Up, to navigate towards Log In page and Sign Up page respectively.
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/72350924/116924526-9bcd3480-ac75-11eb-9ff8-aba94c2d4b01.png)
 
@@ -25,17 +25,17 @@ This is the landing page of the project. At the navigation bar, have two options
 ![Screenshot (18)](https://user-images.githubusercontent.com/72350924/116927419-46932200-ac79-11eb-8254-db86d6238fde.png)
 
 #### Signup Page: 
-User will be redirected to Sign Up page after clicking on Sign Up option from home page. Here I have created a form for taking some information from a user. Also I have done validation with Javascript for each field.
+User will be redirected to Sign Up page after clicking on Sign Up option from home page. Here I have created a form for taking some information from an user. Also I have done validation with Javascript for each fields.
 
 ![Screenshot (10)](https://user-images.githubusercontent.com/72350924/116934877-24060680-ac83-11eb-87ad-9e1701b74936.png)
 
-_When user will click Submit button , each field validation will be checked if all validation is successful , form will be submitted and all user information will be stored at database , if validation fail form will not be submitted and will give error message what kind of validation is failing._
+_When user will clicks on Submit button, each field validation will be checked. If all the validation is successful, form will be submitted and all user information will be stored in database. If validation fails, form will not be submitted and will give proper error message._
 
 ![Screenshot (25)](https://user-images.githubusercontent.com/72350924/116938001-ba3c2b80-ac87-11eb-98f1-c6bdc3110625.png)
 
 ![Screenshot (26)](https://user-images.githubusercontent.com/72350924/116938024-c0320c80-ac87-11eb-8899-e3fd601cdc6b.png)
 
-**I have used the following codes to establish MongoDb connection with our project**
+**_I have used the following codes to establish MongoDb connection with my project_**
 
 ##### Code for MongoDb Connection : 
 
